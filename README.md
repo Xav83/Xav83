@@ -24,8 +24,11 @@
   <a href="https://medium.com/@xavier-jouvenot">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/xavier-jouvenot-98787794">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://medium.com/@xavier-jouvenot">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://community.codenewbie.org/xav83">
+    <img src="https://a11ybadges.com/badge?logo=codenewbie"/>
   </a>
   <a href="https://www.10xlearner.com/">
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
