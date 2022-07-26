@@ -6,7 +6,34 @@
 - 🛠️ I am maintaining some [Chocolatey packages](https://community.chocolatey.org/profiles/Xav83)
 - ✍️ I am also writing some articles about programming stuff on my [personal blog](https://10xlearner.com/), and some others platforms.
 - 📝 My current focus is on improving my online presence, and my [personal blog](https://10xlearner.com/).
-- 💻 Working daily with C++, CMake, Pythhon Azure Pipelines and GitHub.
+- 💻 Working daily with C++, CMake, Python Azure Pipelines and GitHub and experimenting with web related languages.
+
+## Let's connect
+
+<div id="badges">
+  
+  <a href="https://twitter.com/10xLearner">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/10xlearner">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>
+  <a href="https://www.twitch.tv/m_xav">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://medium.com/@xavier-jouvenot">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/xavier-jouvenot-98787794">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.10xlearner.com/">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/10xlearner/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+</div>
 
 ## Languages and Tools
 
