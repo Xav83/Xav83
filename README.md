@@ -2,9 +2,11 @@
 
 ## About me
 
-- 💻 I am working as a Quality Engineer at @Expressivee, and as a Freenlancer.
+- 🏡 I am working remotely as a Quality Engineer at @Expressivee, and as a Freenlancer.
 - 🛠️ I am maintaining some [Chocolatey packages](https://community.chocolatey.org/profiles/Xav83)
 - ✍️ I am also writing some articles about programming stuff on my [personal blog](https://10xlearner.com/), and some others platforms.
+- 📝 My current focus is on improving my online presence, and my [personal blog](https://10xlearner.com/).
+- 💻 Working daily with C++, CMake, Pythhon Azure Pipelines and GitHub.
 
 ## Languages and Tools
 
