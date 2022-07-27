@@ -98,6 +98,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Xav83/Xav83/pull/1) in [Xav83/Xav83](https://github.com/Xav83/Xav83)
+2. 🗣 Commented on [#1312](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1312) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#1311](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1311) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#1309](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1309) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 🗣 Commented on [#1314](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1314) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 <!--END_SECTION:activity-->
 
 <!--
