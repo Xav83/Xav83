@@ -93,11 +93,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AppVeyor and python formatting](https://dev.to/10xlearner/appveyor-and-python-formatting-4n8j)
 - [AppVeyor and python formatting](https://10xlearner.com/2022/03/30/appveyor-and-python-formatting/)
-- [Checking your python code format on Azure Pipelines](https://dev.to/10xlearner/checking-your-python-code-format-on-azure-pipelines-2hgc)
 - [Checking your python code format on Azure Pipelines](https://10xlearner.com/2022/03/23/checking-your-python-code-format-on-azure-pipelines/)
-- [Formatting Python – Why and How !](https://dev.to/10xlearner/formatting-python-why-and-how--408)
+- [Formatting Python – Why and How !](https://10xlearner.com/2022/03/16/formatting-python-why-and-how/)
+- [Making my Advent Of Code solution cross-platform &lpar;a developer journey&rpar;](https://10xlearner.com/2022/03/09/making-my-advent-of-code-solution-cross-platform/)
+- [Advent Of Code 2021 – Syntax Scoring – Puzzle 10](https://10xlearner.com/2022/03/07/advent-of-code-2021-syntax-scoring-puzzle-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
