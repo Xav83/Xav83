@@ -103,11 +103,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1287](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1287) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#1296](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1296) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-4. 🗣 Commented on [#37](https://github.com/stefansundin/superf4/issues/37) in [stefansundin/superf4](https://github.com/stefansundin/superf4)
-5. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+1. 🗣 Commented on [#1347](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1347) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+2. 🗣 Commented on [#1287](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1287) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#1296](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1296) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 🗣 Commented on [#37](https://github.com/stefansundin/superf4/issues/37) in [stefansundin/superf4](https://github.com/stefansundin/superf4)
 <!--END_SECTION:activity-->
 
 <!--
