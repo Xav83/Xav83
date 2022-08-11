@@ -103,11 +103,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1358](https://github.com/ciderapp/Cider/pull/1358) in [ciderapp/Cider](https://github.com/ciderapp/Cider)
-2. 🗣 Commented on [#1111](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1111) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#1171](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1171) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-4. 🗣 Commented on [#1225](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1225) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-5. 🗣 Commented on [#1332](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1332) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+1. 🗣 Commented on [#1358](https://github.com/ciderapp/Cider/issues/1358) in [ciderapp/Cider](https://github.com/ciderapp/Cider)
+2. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 💪 Opened PR [#8](https://github.com/Xav83/chocolatey-packages/pull/8) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 💪 Opened PR [#1358](https://github.com/ciderapp/Cider/pull/1358) in [ciderapp/Cider](https://github.com/ciderapp/Cider)
+5. 🗣 Commented on [#1111](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1111) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 <!--END_SECTION:activity-->
 
 <!--
