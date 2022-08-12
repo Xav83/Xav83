@@ -103,11 +103,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Comp-Labs/Google-Docs/pull/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
-2. 🗣 Commented on [#1312](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1312) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 💪 Opened PR [#19](https://github.com/arjun-g/google-meet-desktop/pull/19) in [arjun-g/google-meet-desktop](https://github.com/arjun-g/google-meet-desktop)
-4. 💪 Opened PR [#109](https://github.com/ankurk91/google-chat-electron/pull/109) in [ankurk91/google-chat-electron](https://github.com/ankurk91/google-chat-electron)
-5. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 💪 Opened PR [#106](https://github.com/Sophia-Community/SophiApp/pull/106) in [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+2. 💪 Opened PR [#7](https://github.com/Comp-Labs/Google-Docs/pull/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
+3. 🗣 Commented on [#1312](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1312) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 💪 Opened PR [#19](https://github.com/arjun-g/google-meet-desktop/pull/19) in [arjun-g/google-meet-desktop](https://github.com/arjun-g/google-meet-desktop)
+5. 💪 Opened PR [#109](https://github.com/ankurk91/google-chat-electron/pull/109) in [ankurk91/google-chat-electron](https://github.com/ankurk91/google-chat-electron)
 <!--END_SECTION:activity-->
 
 <!--
