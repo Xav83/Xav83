@@ -103,11 +103,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com/ankurk91/google-chat-electron/pull/109) in [ankurk91/google-chat-electron](https://github.com/ankurk91/google-chat-electron)
-2. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-3. 💪 Opened PR [#122](https://github.com/eosrei/twemoji-color-font/pull/122) in [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)
-4. 💪 Opened PR [#370](https://github.com/SteamGridDB/steam-rom-manager/pull/370) in [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager)
-5. 💪 Opened PR [#4894](https://github.com/manga-download/hakuneko/pull/4894) in [manga-download/hakuneko](https://github.com/manga-download/hakuneko)
+1. 🗣 Commented on [#1312](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1312) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+2. 💪 Opened PR [#19](https://github.com/arjun-g/google-meet-desktop/pull/19) in [arjun-g/google-meet-desktop](https://github.com/arjun-g/google-meet-desktop)
+3. 💪 Opened PR [#109](https://github.com/ankurk91/google-chat-electron/pull/109) in [ankurk91/google-chat-electron](https://github.com/ankurk91/google-chat-electron)
+4. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 💪 Opened PR [#122](https://github.com/eosrei/twemoji-color-font/pull/122) in [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font)
 <!--END_SECTION:activity-->
 
 <!--
