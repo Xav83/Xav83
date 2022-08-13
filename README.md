@@ -103,11 +103,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2194](https://github.com/johannesjo/super-productivity/pull/2194) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
-2. 💪 Opened PR [#141](https://github.com/marchellodev/sharik/pull/141) in [marchellodev/sharik](https://github.com/marchellodev/sharik)
-3. 💪 Opened PR [#355](https://github.com/comictagger/comictagger/pull/355) in [comictagger/comictagger](https://github.com/comictagger/comictagger)
-4. 💪 Opened PR [#75](https://github.com/setvisible/DownZemAll/pull/75) in [setvisible/DownZemAll](https://github.com/setvisible/DownZemAll)
-5. 💪 Opened PR [#106](https://github.com/Sophia-Community/SophiApp/pull/106) in [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+1. 🗣 Commented on [#1349](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1349) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+2. 💪 Opened PR [#2194](https://github.com/johannesjo/super-productivity/pull/2194) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+3. 💪 Opened PR [#141](https://github.com/marchellodev/sharik/pull/141) in [marchellodev/sharik](https://github.com/marchellodev/sharik)
+4. 💪 Opened PR [#355](https://github.com/comictagger/comictagger/pull/355) in [comictagger/comictagger](https://github.com/comictagger/comictagger)
+5. 💪 Opened PR [#75](https://github.com/setvisible/DownZemAll/pull/75) in [setvisible/DownZemAll](https://github.com/setvisible/DownZemAll)
 <!--END_SECTION:activity-->
 
 <!--
