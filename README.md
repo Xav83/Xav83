@@ -36,6 +36,9 @@
   <a href="https://www.reddit.com/user/10xlearner/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
+  <a href="https://10xlearner.hashnode.dev//">
+    <img src="https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hasnode&logoColor=white"/>
+  </a>
 </div>
 
 ## Languages and Tools
