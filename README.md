@@ -89,9 +89,10 @@
  
 ## My Github Stats :bar_chart:
 
-  <a href="https://github.com/Xav83/github-readme-stats"><img alt="Xav83's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xav83&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Xav83/github-readme-stats"><img alt="Xav83's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xav83&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Xav83/github-readme-activity-graph"><img alt="Xav83's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xav83&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+![Xav83's Github Stats](https://github-readme-stats.vercel.app/api?username=Xav83&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xav83&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Xav83's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Xav83&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## :memo: Latest Blog Posts
 
