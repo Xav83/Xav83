@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1099](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1099) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#1040](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1040) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#1041](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1041) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-4. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-5. 🗣 Commented on [#1045](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1045) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+1. 🗣 Commented on [#1034](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1034) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+2. 💪 Opened PR [#624](https://github.com/dtgm/chocolatey-packages/pull/624) in [dtgm/chocolatey-packages](https://github.com/dtgm/chocolatey-packages)
+3. 🗣 Commented on [#1099](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1099) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#1040](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1040) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 🗣 Commented on [#1041](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1041) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 <!--END_SECTION:activity-->
 
 <!--
