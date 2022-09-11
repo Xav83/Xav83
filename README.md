@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#984](https://github.com/chocolatey-community/chocolatey-package-requests/issues/984) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-3. 🗣 Commented on [#241](https://github.com/Dummerle/Rare/issues/241) in [Dummerle/Rare](https://github.com/Dummerle/Rare)
-4. 💪 Opened PR [#241](https://github.com/Dummerle/Rare/pull/241) in [Dummerle/Rare](https://github.com/Dummerle/Rare)
-5. 💪 Opened PR [#249](https://github.com/claudiodangelis/qrcp/pull/249) in [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp)
+1. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+2. 🗣 Commented on [#984](https://github.com/chocolatey-community/chocolatey-package-requests/issues/984) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#241](https://github.com/Dummerle/Rare/issues/241) in [Dummerle/Rare](https://github.com/Dummerle/Rare)
+5. 💪 Opened PR [#241](https://github.com/Dummerle/Rare/pull/241) in [Dummerle/Rare](https://github.com/Dummerle/Rare)
 <!--END_SECTION:activity-->
 
 <!--
