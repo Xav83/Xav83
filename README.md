@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/microsoft/IoT-For-Beginners/pull/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-2. 🗣 Commented on [#970](https://github.com/chocolatey-community/chocolatey-package-requests/issues/970) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#63](https://github.com/k06a/boolinq/issues/63) in [k06a/boolinq](https://github.com/k06a/boolinq)
-4. 🗣 Commented on [#241](https://github.com/Dummerle/Rare/issues/241) in [Dummerle/Rare](https://github.com/Dummerle/Rare)
-5. 🗣 Commented on [#8](https://github.com/Xav83/chocolatey-packages/issues/8) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 🗣 Commented on [#288](https://github.com/microsoft/IoT-For-Beginners/issues/288) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+2. 🗣 Commented on [#400](https://github.com/microsoft/IoT-For-Beginners/issues/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+3. 💪 Opened PR [#400](https://github.com/microsoft/IoT-For-Beginners/pull/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+4. 🗣 Commented on [#970](https://github.com/chocolatey-community/chocolatey-package-requests/issues/970) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 🗣 Commented on [#63](https://github.com/k06a/boolinq/issues/63) in [k06a/boolinq](https://github.com/k06a/boolinq)
 <!--END_SECTION:activity-->
 
 <!--
