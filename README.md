@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#777](https://github.com/microsoft/Web-Dev-For-Beginners/pull/777) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-2. 🗣 Commented on [#288](https://github.com/microsoft/IoT-For-Beginners/issues/288) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-3. 🗣 Commented on [#400](https://github.com/microsoft/IoT-For-Beginners/issues/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-4. 💪 Opened PR [#400](https://github.com/microsoft/IoT-For-Beginners/pull/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-5. 🗣 Commented on [#970](https://github.com/chocolatey-community/chocolatey-package-requests/issues/970) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+1. 💪 Opened PR [#4](https://github.com/arthurits/ErgoLux/pull/4) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
+2. 💪 Opened PR [#777](https://github.com/microsoft/Web-Dev-For-Beginners/pull/777) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+3. 🗣 Commented on [#288](https://github.com/microsoft/IoT-For-Beginners/issues/288) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+4. 🗣 Commented on [#400](https://github.com/microsoft/IoT-For-Beginners/issues/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+5. 💪 Opened PR [#400](https://github.com/microsoft/IoT-For-Beginners/pull/400) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 <!--END_SECTION:activity-->
 
 <!--
