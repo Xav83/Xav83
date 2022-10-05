@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1719](https://github.com/withastro/docs/pull/1719) in [withastro/docs](https://github.com/withastro/docs)
-2. 🗣 Commented on [#1](https://github.com/arthurits/ErgoLux/issues/1) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
-3. 💪 Opened PR [#4](https://github.com/arthurits/ErgoLux/pull/4) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
-4. 💪 Opened PR [#777](https://github.com/microsoft/Web-Dev-For-Beginners/pull/777) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-5. 🗣 Commented on [#288](https://github.com/microsoft/IoT-For-Beginners/issues/288) in [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
+1. 💪 Opened PR [#15](https://github.com/blitz-js/fr.blitzjs.com/pull/15) in [blitz-js/fr.blitzjs.com](https://github.com/blitz-js/fr.blitzjs.com)
+2. 💪 Opened PR [#1719](https://github.com/withastro/docs/pull/1719) in [withastro/docs](https://github.com/withastro/docs)
+3. 🗣 Commented on [#1](https://github.com/arthurits/ErgoLux/issues/1) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
+4. 💪 Opened PR [#4](https://github.com/arthurits/ErgoLux/pull/4) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
+5. 💪 Opened PR [#777](https://github.com/microsoft/Web-Dev-For-Beginners/pull/777) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--END_SECTION:activity-->
 
 <!--
