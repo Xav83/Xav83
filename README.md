@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/xEdziu/KeepMyPassword-Desktop/pull/126) in [xEdziu/KeepMyPassword-Desktop](https://github.com/xEdziu/KeepMyPassword-Desktop)
-2. 💪 Opened PR [#15](https://github.com/blitz-js/fr.blitzjs.com/pull/15) in [blitz-js/fr.blitzjs.com](https://github.com/blitz-js/fr.blitzjs.com)
-3. 💪 Opened PR [#1719](https://github.com/withastro/docs/pull/1719) in [withastro/docs](https://github.com/withastro/docs)
-4. 🗣 Commented on [#1](https://github.com/arthurits/ErgoLux/issues/1) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
-5. 💪 Opened PR [#4](https://github.com/arthurits/ErgoLux/pull/4) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
+1. 🗣 Commented on [#67](https://github.com/chocolatey-community/chocolatey-test-environment/issues/67) in [chocolatey-community/chocolatey-test-environment](https://github.com/chocolatey-community/chocolatey-test-environment)
+2. 💪 Opened PR [#126](https://github.com/xEdziu/KeepMyPassword-Desktop/pull/126) in [xEdziu/KeepMyPassword-Desktop](https://github.com/xEdziu/KeepMyPassword-Desktop)
+3. 💪 Opened PR [#15](https://github.com/blitz-js/fr.blitzjs.com/pull/15) in [blitz-js/fr.blitzjs.com](https://github.com/blitz-js/fr.blitzjs.com)
+4. 💪 Opened PR [#1719](https://github.com/withastro/docs/pull/1719) in [withastro/docs](https://github.com/withastro/docs)
+5. 🗣 Commented on [#1](https://github.com/arthurits/ErgoLux/issues/1) in [arthurits/ErgoLux](https://github.com/arthurits/ErgoLux)
 <!--END_SECTION:activity-->
 
 <!--
