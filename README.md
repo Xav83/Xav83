@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#970](https://github.com/chocolatey-community/chocolatey-package-requests/issues/970) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#1064](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1064) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 💪 Opened PR [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-4. 💪 Opened PR [#186](https://github.com/GioBonvi/GoogleContactsEventsNotifier/pull/186) in [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier)
-5. 💪 Opened PR [#61](https://github.com/petrkle/periodic-table/pull/61) in [petrkle/periodic-table](https://github.com/petrkle/periodic-table)
+1. 🗣 Commented on [#1075](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1075) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+2. 🗣 Commented on [#1098](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1098) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#970](https://github.com/chocolatey-community/chocolatey-package-requests/issues/970) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#1064](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1064) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 💪 Opened PR [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 <!--
