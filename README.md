@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/GioBonvi/GoogleContactsEventsNotifier/issues/186) in [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier)
+1. ❗️ Opened issue [#118](https://github.com/ankurk91/google-chat-electron/issues/118) in [ankurk91/google-chat-electron](https://github.com/ankurk91/google-chat-electron)
 2. 🗣 Commented on [#186](https://github.com/GioBonvi/GoogleContactsEventsNotifier/issues/186) in [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier)
 3. 🗣 Commented on [#186](https://github.com/GioBonvi/GoogleContactsEventsNotifier/issues/186) in [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier)
-4. 🗣 Commented on [#1075](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1075) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-5. 🗣 Commented on [#1098](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1098) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#186](https://github.com/GioBonvi/GoogleContactsEventsNotifier/issues/186) in [GioBonvi/GoogleContactsEventsNotifier](https://github.com/GioBonvi/GoogleContactsEventsNotifier)
+5. 🗣 Commented on [#1075](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1075) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 <!--END_SECTION:activity-->
 
 <!--
