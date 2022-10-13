@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1040](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1040) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#1091](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1091) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#1063](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1063) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-4. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-5. 💪 Opened PR [#39](https://github.com/JingOS-team/JingOS-translations/pull/39) in [JingOS-team/JingOS-translations](https://github.com/JingOS-team/JingOS-translations)
+1. 💪 Opened PR [#761](https://github.com/oldj/SwitchHosts/pull/761) in [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)
+2. 🗣 Commented on [#1040](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1040) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#1091](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1091) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#1063](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1063) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+5. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 <!--END_SECTION:activity-->
 
 <!--
