@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-2. 🗣 Commented on [#65](https://github.com/Suwayomi/Tachidesk-JUI/issues/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+1. ❗️ Opened issue [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
+2. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 3. 🗣 Commented on [#65](https://github.com/Suwayomi/Tachidesk-JUI/issues/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
-4. 💪 Opened PR [#65](https://github.com/Suwayomi/Tachidesk-JUI/pull/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
-5. 🗣 Commented on [#1041](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1041) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#65](https://github.com/Suwayomi/Tachidesk-JUI/issues/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+5. 💪 Opened PR [#65](https://github.com/Suwayomi/Tachidesk-JUI/pull/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
 <!--END_SECTION:activity-->
 
 <!--
