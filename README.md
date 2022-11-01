@@ -108,10 +108,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-3. ❗️ Opened issue [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
-4. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-5. 🗣 Commented on [#65](https://github.com/Suwayomi/Tachidesk-JUI/issues/65) in [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI)
+2. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+4. ❗️ Opened issue [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
+5. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 <!--END_SECTION:activity-->
 
 <!--
