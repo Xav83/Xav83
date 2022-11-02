@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+1. ❗️ Opened issue [#145](https://github.com/ermig1979/AntiDupl/issues/145) in [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl)
 2. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-3. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-4. ❗️ Opened issue [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
-5. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+3. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+4. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+5. ❗️ Opened issue [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
 <!--END_SECTION:activity-->
 
 <!--
