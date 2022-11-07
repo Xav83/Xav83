@@ -109,9 +109,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 2. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-3. ❗️ Opened issue [#145](https://github.com/ermig1979/AntiDupl/issues/145) in [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl)
-4. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-5. 🗣 Commented on [#1288](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1288) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
+3. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+5. ❗️ Opened issue [#145](https://github.com/ermig1979/AntiDupl/issues/145) in [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl)
 <!--END_SECTION:activity-->
 
 <!--
