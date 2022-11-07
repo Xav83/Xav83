@@ -111,7 +111,7 @@
 2. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 3. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 4. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. ❗️ Opened issue [#145](https://github.com/ermig1979/AntiDupl/issues/145) in [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl)
+5. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 <!--
