@@ -107,10 +107,10 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Xav83/chocolatey-packages/pull/8) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-2. 🗣 Commented on [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
-3. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-4. 🗣 Commented on [#3211](https://github.com/HTTPArchive/almanac.httparchive.org/issues/3211) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. 🗣 Commented on [#18](https://github.com/Xav83/chocolatey-packages/issues/18) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+2. ❗️ Closed issue [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🎉 Merged PR [#8](https://github.com/Xav83/chocolatey-packages/pull/8) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
 5. 🗣 Commented on [#7253](https://github.com/jenkinsci/jenkins/issues/7253) in [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 <!--END_SECTION:activity-->
 
