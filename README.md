@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/k06a/boolinq/issues/63) in [k06a/boolinq](https://github.com/k06a/boolinq)
-2. 💪 Opened PR [#1](https://github.com/Xav83/boolinq/pull/1) in [Xav83/boolinq](https://github.com/Xav83/boolinq)
-3. 💪 Opened PR [#76](https://github.com/k06a/boolinq/pull/76) in [k06a/boolinq](https://github.com/k06a/boolinq)
-4. 🗣 Commented on [#18](https://github.com/Xav83/chocolatey-packages/issues/18) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. ❗️ Closed issue [#7](https://github.com/Xav83/chocolatey-packages/issues/7) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 🗣 Commented on [#76](https://github.com/k06a/boolinq/issues/76) in [k06a/boolinq](https://github.com/k06a/boolinq)
+2. 🗣 Commented on [#76](https://github.com/k06a/boolinq/issues/76) in [k06a/boolinq](https://github.com/k06a/boolinq)
+3. 🗣 Commented on [#63](https://github.com/k06a/boolinq/issues/63) in [k06a/boolinq](https://github.com/k06a/boolinq)
+4. 💪 Opened PR [#1](https://github.com/Xav83/boolinq/pull/1) in [Xav83/boolinq](https://github.com/Xav83/boolinq)
+5. 💪 Opened PR [#76](https://github.com/k06a/boolinq/pull/76) in [k06a/boolinq](https://github.com/k06a/boolinq)
 <!--END_SECTION:activity-->
 
 <!--
