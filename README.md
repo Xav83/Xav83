@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/Xav83/Xav83.github.io/issues/110) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-2. ❗️ Opened issue [#109](https://github.com/Xav83/Xav83.github.io/issues/109) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-3. ❗️ Opened issue [#108](https://github.com/Xav83/Xav83.github.io/issues/108) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-4. ❗️ Opened issue [#107](https://github.com/Xav83/Xav83.github.io/issues/107) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-5. ❗️ Opened issue [#106](https://github.com/Xav83/Xav83.github.io/issues/106) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+1. ❗️ Opened issue [#120](https://github.com/Xav83/Xav83.github.io/issues/120) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+2. ❗️ Opened issue [#119](https://github.com/Xav83/Xav83.github.io/issues/119) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+3. ❗️ Opened issue [#118](https://github.com/Xav83/Xav83.github.io/issues/118) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+4. ❗️ Opened issue [#117](https://github.com/Xav83/Xav83.github.io/issues/117) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+5. ❗️ Opened issue [#116](https://github.com/Xav83/Xav83.github.io/issues/116) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
 <!--END_SECTION:activity-->
 
 <!--
