@@ -108,10 +108,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-2. ❌ Closed PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-3. 🗣 Commented on [#77](https://github.com/Riuzakiii/XYModem/issues/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-4. 💪 Opened PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-5. ❗️ Opened issue [#120](https://github.com/Xav83/Xav83.github.io/issues/120) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+2. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+3. ❌ Closed PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+4. 🗣 Commented on [#77](https://github.com/Riuzakiii/XYModem/issues/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+5. 💪 Opened PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
 <!--END_SECTION:activity-->
 
 <!--
