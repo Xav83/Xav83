@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-2. ❗️ Opened issue [#120](https://github.com/Xav83/Xav83.github.io/issues/120) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-3. ❗️ Opened issue [#119](https://github.com/Xav83/Xav83.github.io/issues/119) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-4. ❗️ Opened issue [#118](https://github.com/Xav83/Xav83.github.io/issues/118) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-5. ❗️ Opened issue [#117](https://github.com/Xav83/Xav83.github.io/issues/117) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+1. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+2. ❌ Closed PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+3. 🗣 Commented on [#77](https://github.com/Riuzakiii/XYModem/issues/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+4. 💪 Opened PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+5. ❗️ Opened issue [#120](https://github.com/Xav83/Xav83.github.io/issues/120) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
 <!--END_SECTION:activity-->
 
 <!--
