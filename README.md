@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1368](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1368) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-2. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+1. 💪 Opened PR [#2158](https://github.com/Hopsan/hopsan/pull/2158) in [Hopsan/hopsan](https://github.com/Hopsan/hopsan)
+2. 🗣 Commented on [#1368](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1368) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
 3. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-4. ❌ Closed PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
-5. 🗣 Commented on [#77](https://github.com/Riuzakiii/XYModem/issues/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+4. 🗣 Commented on [#71](https://github.com/Riuzakiii/XYModem/issues/71) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
+5. ❌ Closed PR [#77](https://github.com/Riuzakiii/XYModem/pull/77) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
 <!--END_SECTION:activity-->
 
 <!--
