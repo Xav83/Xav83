@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AOC 2022 Day 3: Rucksack Reorganization](https://10xlearner.com/2022/12/12/aoc-2022-day-3-rucksack-reorganization/)
 - [AOC 2022 Day 2: Rock Paper Scissors](https://10xlearner.com/2022/12/08/aoc-2022-day-2-rock-paper-scissors/)
 - [AOC 2022 Day 1: Calorie Counting](https://10xlearner.com/2022/12/06/aoc-2022-day-1-calorie-counting/)
 - [The clamp functions are badly designed](https://10xlearner.com/2022/10/05/the-clamp-functions-are-badly-designed/)
 - [Book review – 10 Simple And Effective Productivity Hacks For Programmers, by Simple Programmer](https://10xlearner.com/2022/09/15/book-review-10-simple-and-effective-productivity-hacks-for-programmers-by-simple-programmer/)
-- [How you can create an awesome GitHub profile](https://10xlearner.com/2022/09/12/how-you-can-create-an-awesome-github-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
