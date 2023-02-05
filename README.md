@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124](https://github.com/Xav83/Xav83.github.io/issues/124) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-2. ❗️ Opened issue [#123](https://github.com/Xav83/Xav83.github.io/issues/123) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-3. ❗️ Opened issue [#122](https://github.com/Xav83/Xav83.github.io/issues/122) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-4. ❗️ Opened issue [#121](https://github.com/Xav83/Xav83.github.io/issues/121) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-5. 🗣 Commented on [#76](https://github.com/k06a/boolinq/issues/76) in [k06a/boolinq](https://github.com/k06a/boolinq)
+1. 💪 Opened PR [#77](https://github.com/k06a/boolinq/pull/77) in [k06a/boolinq](https://github.com/k06a/boolinq)
+2. 🎉 Merged PR [#1](https://github.com/Xav83/boolinq/pull/1) in [Xav83/boolinq](https://github.com/Xav83/boolinq)
+3. ❗️ Opened issue [#124](https://github.com/Xav83/Xav83.github.io/issues/124) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+4. ❗️ Opened issue [#123](https://github.com/Xav83/Xav83.github.io/issues/123) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+5. ❗️ Opened issue [#122](https://github.com/Xav83/Xav83.github.io/issues/122) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
 <!--END_SECTION:activity-->
 
 <!--
