@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Xav83/chocolatey-packages/issues/24) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-2. 🗣 Commented on [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
-3. 🎉 Merged PR [#25](https://github.com/Xav83/chocolatey-packages/pull/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 🗣 Commented on [#25](https://github.com/Xav83/chocolatey-packages/issues/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. 🎉 Merged PR [#24](https://github.com/Xav83/chocolatey-packages/pull/24) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. ❗️ Closed issue [#21](https://github.com/Xav83/chocolatey-packages/issues/21) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+2. 🎉 Merged PR [#26](https://github.com/Xav83/chocolatey-packages/pull/26) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🗣 Commented on [#24](https://github.com/Xav83/chocolatey-packages/issues/24) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#190](https://github.com/Alia5/GlosSI/issues/190) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
+5. 🎉 Merged PR [#25](https://github.com/Xav83/chocolatey-packages/pull/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
