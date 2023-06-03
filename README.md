@@ -109,9 +109,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
 2. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
-3. 🗣 Commented on [#25](https://github.com/Xav83/chocolatey-packages/issues/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 🔒 Closed issue [#21](https://github.com/Xav83/chocolatey-packages/issues/21) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. 🎉 Merged PR [#26](https://github.com/Xav83/chocolatey-packages/pull/26) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
+4. 🗣 Commented on [#25](https://github.com/Xav83/chocolatey-packages/issues/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 🔒 Closed issue [#21](https://github.com/Xav83/chocolatey-packages/issues/21) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
