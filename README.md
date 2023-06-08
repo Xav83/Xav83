@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
+1. 🗣 Commented on [#104](https://github.com/Riuzakiii/XYModem/issues/104) in [Riuzakiii/XYModem](https://github.com/Riuzakiii/XYModem)
 2. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
 3. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
-4. 🗣 Commented on [#25](https://github.com/Xav83/chocolatey-packages/issues/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. 🔒 Closed issue [#21](https://github.com/Xav83/chocolatey-packages/issues/21) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#7](https://github.com/Comp-Labs/Google-Docs/issues/7) in [Comp-Labs/Google-Docs](https://github.com/Comp-Labs/Google-Docs)
+5. 🗣 Commented on [#25](https://github.com/Xav83/chocolatey-packages/issues/25) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
