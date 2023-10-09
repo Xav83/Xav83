@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/aloussase/gaya/pull/3) in [aloussase/gaya](https://github.com/aloussase/gaya)
-2. 💪 Opened PR [#7](https://github.com/andoriyaprashant/Swoofy/pull/7) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
-3. 💪 Opened PR [#163](https://github.com/jidicula/clang-format-action/pull/163) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
-4. 🗣 Commented on [#81](https://github.com/2fast-team/2fast/issues/81#issuecomment-1738626857) in [2fast-team/2fast](https://github.com/2fast-team/2fast)
-5. 🗣 Commented on [#81](https://github.com/2fast-team/2fast/issues/81#issuecomment-1732361921) in [2fast-team/2fast](https://github.com/2fast-team/2fast)
+1. 🗣 Commented on [#1](https://github.com/aloussase/gaya/issues/1#issuecomment-1753389180) in [aloussase/gaya](https://github.com/aloussase/gaya)
+2. 💪 Opened PR [#3](https://github.com/aloussase/gaya/pull/3) in [aloussase/gaya](https://github.com/aloussase/gaya)
+3. 💪 Opened PR [#7](https://github.com/andoriyaprashant/Swoofy/pull/7) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
+4. 💪 Opened PR [#163](https://github.com/jidicula/clang-format-action/pull/163) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+5. 🗣 Commented on [#81](https://github.com/2fast-team/2fast/issues/81#issuecomment-1738626857) in [2fast-team/2fast](https://github.com/2fast-team/2fast)
 <!--END_SECTION:activity-->
 
 <!--
