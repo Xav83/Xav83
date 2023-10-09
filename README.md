@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/andoriyaprashant/Swoofy/pull/7#issuecomment-1753636991) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
-2. 🗣 Commented on [#1](https://github.com/aloussase/gaya/issues/1#issuecomment-1753389180) in [aloussase/gaya](https://github.com/aloussase/gaya)
-3. 💪 Opened PR [#3](https://github.com/aloussase/gaya/pull/3) in [aloussase/gaya](https://github.com/aloussase/gaya)
-4. 💪 Opened PR [#7](https://github.com/andoriyaprashant/Swoofy/pull/7) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
-5. 💪 Opened PR [#163](https://github.com/jidicula/clang-format-action/pull/163) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+1. 🗣 Commented on [#9](https://github.com/andoriyaprashant/Swoofy/pull/9#issuecomment-1753742408) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
+2. 🗣 Commented on [#163](https://github.com/jidicula/clang-format-action/pull/163#issuecomment-1753734954) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+3. 💪 Opened PR [#164](https://github.com/jidicula/clang-format-action/pull/164) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+4. 🗣 Commented on [#163](https://github.com/jidicula/clang-format-action/pull/163#issuecomment-1753713281) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+5. 💪 Opened PR [#9](https://github.com/andoriyaprashant/Swoofy/pull/9) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
 <!--END_SECTION:activity-->
 
 <!--
