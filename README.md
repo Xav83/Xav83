@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1365](https://github.com/OpenChemistry/avogadrolibs/pull/1365#issuecomment-1756253421) in [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)
-2. 💪 Opened PR [#1365](https://github.com/OpenChemistry/avogadrolibs/pull/1365) in [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)
-3. 🗣 Commented on [#9](https://github.com/andoriyaprashant/Swoofy/pull/9#issuecomment-1753742408) in [andoriyaprashant/Swoofy](https://github.com/andoriyaprashant/Swoofy)
-4. 🗣 Commented on [#163](https://github.com/jidicula/clang-format-action/pull/163#issuecomment-1753734954) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
-5. 💪 Opened PR [#164](https://github.com/jidicula/clang-format-action/pull/164) in [jidicula/clang-format-action](https://github.com/jidicula/clang-format-action)
+1. 🎉 Merged PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+2. 🗣 Commented on [#5](https://github.com/Xav83/tutorials/issues/5#issuecomment-1763441700) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+3. 🗣 Commented on [#6](https://github.com/Xav83/tutorials/pull/6#issuecomment-1763439025) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+4. 💪 Opened PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+5. 🗣 Commented on [#1365](https://github.com/OpenChemistry/avogadrolibs/pull/1365#issuecomment-1756253421) in [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)
 <!--END_SECTION:activity-->
 
 <!--
