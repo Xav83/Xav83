@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
-2. 🗣 Commented on [#5](https://github.com/Xav83/tutorials/issues/5#issuecomment-1763441700) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
-3. 🗣 Commented on [#6](https://github.com/Xav83/tutorials/pull/6#issuecomment-1763439025) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
-4. 💪 Opened PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
-5. 🗣 Commented on [#1365](https://github.com/OpenChemistry/avogadrolibs/pull/1365#issuecomment-1756253421) in [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)
+1. 💪 Opened PR [#7](https://github.com/Xav83/tutorials/pull/7) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+2. 🎉 Merged PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+3. 🗣 Commented on [#5](https://github.com/Xav83/tutorials/issues/5#issuecomment-1763441700) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+4. 🗣 Commented on [#6](https://github.com/Xav83/tutorials/pull/6#issuecomment-1763439025) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+5. 💪 Opened PR [#6](https://github.com/Xav83/tutorials/pull/6) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
 <!--END_SECTION:activity-->
 
 <!--
