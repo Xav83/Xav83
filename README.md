@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/setvisible/ArrowDL/issues/122#issuecomment-1873818192) in [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL)
-2. 🗣 Commented on [#122](https://github.com/setvisible/ArrowDL/issues/122#issuecomment-1873800433) in [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL)
-3. 🗣 Commented on [#23](https://github.com/Xav83/chocolatey-packages/issues/23#issuecomment-1873752360) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 🔒 Closed issue [#5](https://github.com/Xav83/tutorials/issues/5) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
-5. 💪 Opened PR [#7](https://github.com/Xav83/tutorials/pull/7) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+1. 🎉 Merged PR [#7](https://github.com/Xav83/tutorials/pull/7) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
+2. 🗣 Commented on [#122](https://github.com/setvisible/ArrowDL/issues/122#issuecomment-1873818192) in [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL)
+3. 🗣 Commented on [#122](https://github.com/setvisible/ArrowDL/issues/122#issuecomment-1873800433) in [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL)
+4. 🗣 Commented on [#23](https://github.com/Xav83/chocolatey-packages/issues/23#issuecomment-1873752360) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 🔒 Closed issue [#5](https://github.com/Xav83/tutorials/issues/5) in [Xav83/tutorials](https://github.com/Xav83/tutorials)
 <!--END_SECTION:activity-->
 
 <!--
