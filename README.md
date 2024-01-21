@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Xav83/chocolatey-packages/issues/28#issuecomment-1902461906) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-2. 🗣 Commented on [#29](https://github.com/Xav83/chocolatey-packages/issues/29#issuecomment-1902374578) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-3. 🗣 Commented on [#29](https://github.com/Xav83/chocolatey-packages/issues/29#issuecomment-1902337641) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 🗣 Commented on [#1012](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1012#issuecomment-1902275543) in [chocolatey-community/chocolatey-package-requests](https://github.com/chocolatey-community/chocolatey-package-requests)
-5. 🗣 Commented on [#122](https://github.com/setvisible/ArrowDL/issues/122#issuecomment-1885641540) in [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL)
+1. 🗣 Commented on [#28](https://github.com/Xav83/chocolatey-packages/issues/28#issuecomment-1902583638) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+2. 🔒 Closed issue [#28](https://github.com/Xav83/chocolatey-packages/issues/28) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🗣 Commented on [#28](https://github.com/Xav83/chocolatey-packages/issues/28#issuecomment-1902461906) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#29](https://github.com/Xav83/chocolatey-packages/issues/29#issuecomment-1902374578) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 🗣 Commented on [#29](https://github.com/Xav83/chocolatey-packages/issues/29#issuecomment-1902337641) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
