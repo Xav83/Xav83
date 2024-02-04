@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/Xav83/chocolatey-packages/issues/19) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-2. 🎉 Merged PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-3. 🗣 Commented on [#19](https://github.com/Xav83/chocolatey-packages/issues/19#issuecomment-1913351857) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 💪 Opened PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. 🗣 Commented on [#190](https://github.com/Alia5/GlosSI/issues/190#issuecomment-1912818254) in [Alia5/GlosSI](https://github.com/Alia5/GlosSI)
+1. 🗣 Commented on [#3296](https://github.com/pokeclicker/pokeclicker/issues/3296#issuecomment-1925828473) in [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker)
+2. 🔒 Closed issue [#19](https://github.com/Xav83/chocolatey-packages/issues/19) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🎉 Merged PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. 🗣 Commented on [#19](https://github.com/Xav83/chocolatey-packages/issues/19#issuecomment-1913351857) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 💪 Opened PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
