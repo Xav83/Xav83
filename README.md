@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0002: Visual Studio extension, Game Bytes, A Developer lesson](https://10xlearner.com/2024/04/11/mcs-0002-visual-studio-extension-game-bytes-a-developer-lesson/)
 - [MCS 0001: Narrowing unit tests assertion and C++ type conversions](https://10xlearner.com/2024/04/10/mcs-0001-narrowing-unit-tests-assertion-and-c-type-conversions/)
 - [AOC 2022 Day 4: Camp Cleanup](https://10xlearner.com/2022/12/15/aoc-2022-day-4-camp-cleanup/)
 - [AOC 2022 Day 3: Rucksack Reorganization](https://10xlearner.com/2022/12/12/aoc-2022-day-3-rucksack-reorganization/)
 - [AOC 2022 Day 2: Rock Paper Scissors](https://10xlearner.com/2022/12/08/aoc-2022-day-2-rock-paper-scissors/)
-- [AOC 2022 Day 1: Calorie Counting](https://10xlearner.com/2022/12/06/aoc-2022-day-1-calorie-counting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
