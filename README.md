@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0007 : Software prefetching, the Importance of Naming, Event Bubbling](https://10xlearner.com/2024/04/16/mcs-0007-software-prefetching-the-importance-of-naming-event-bubbling/)
 - [MCS 0006 : .NET and Windows 95, Famous Bugs, Visual Studio update](https://10xlearner.com/2024/04/15/mcs-0006-net-and-windows-95-famous-bugs-visual-studio-update/)
 - [MCS 0005: Implicit and Explicit conversion free resources](https://10xlearner.com/2024/04/14/mcs-0005-implicit-and-explicit-conversion-free-resources/)
 - [MCS 0004: Tip about Vector::at, GitHub Copilot usage, Weekly Reflection](https://10xlearner.com/2024/04/13/mcs-0004-tip-about-vectorat-github-copilot-usage-weekly-reflection/)
 - [MCS 0003: Origami, Agile Retrospectives, Checking C++ array size](https://10xlearner.com/2024/04/12/mcs-0003-origami-agile-retrospectives-checking-c-array-size/)
-- [MCS 0002: Visual Studio extension, Game Bytes, A Developer lesson](https://10xlearner.com/2024/04/11/mcs-0002-visual-studio-extension-game-bytes-a-developer-lesson/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
