@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0011 : Nintendo Network, Shift Left, the Importance of Static Analysis](https://10xlearner.com/2024/04/20/mcs-0011-nintendo-network-shift-left-the-importance-of-static-analysis/)
 - [MCS 0010 : Pytest main, std::optional, Area 51](https://10xlearner.com/2024/04/19/mcs-0010-pytest-main-stdoptional-area-51/)
 - [MCS 0009 : GitHub Wiki, UPT, Empty Containers and Unsigned  Arithmetic](https://10xlearner.com/2024/04/18/mcs-0009-github-wiki-upt-empty-containers-and-unsigned-arithmetic/)
 - [MCS 0008 : Qt update, GitHub Code Security, Taking meeting notes](https://10xlearner.com/2024/04/17/mcs-0008-qt-update-github-code-security-taking-meeting-notes/)
 - [MCS 0007 : Software prefetching, the Importance of Naming, Event Bubbling](https://10xlearner.com/2024/04/16/mcs-0007-software-prefetching-the-importance-of-naming-event-bubbling/)
-- [MCS 0006 : .NET and Windows 95, Famous Bugs, Visual Studio update](https://10xlearner.com/2024/04/15/mcs-0006-net-and-windows-95-famous-bugs-visual-studio-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
