@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0017: Dependabot on GitHub Action, Error 400 Bad Request, Safe C++](https://10xlearner.com/2024/05/06/mcs-0017-dependabot-on-github-action-error-400-bad-request-safe-c/)
 - [MCS 0016: Brittle tests, Performance and Class Layout, GitHub Copilot Workspace](https://10xlearner.com/2024/05/05/mcs-0016-brittle-tests-performance-and-class-layout-github-copilot-workspace/)
 - [MCS 0015: Cppcheck 2.14.0, Website from Markdown, Remote Work Great Again](https://10xlearner.com/2024/05/04/mcs-0015-cppcheck-2-14-0-website-from-markdown-remote-work-great-again/)
 - [MCS 0014: Local Recipes Index, Dirty Stream, Oh Frick Go Back](https://10xlearner.com/2024/05/03/mcs-0014-local-recipes-index-dirty-stream-oh-frick-go-back/)
 - [MCS 0013: Enum-String conversion, Sonic port, Pointless meetings](https://10xlearner.com/2024/04/22/mcs-0013-enum-string-conversion-sonic-port-pointless-meetings/)
-- [MCS 0012: Relaxing a little but not too much](https://10xlearner.com/2024/04/21/mcs-0012-relaxing-a-little-but-not-too-much/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
