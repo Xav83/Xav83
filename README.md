@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0020: RomM manager, Skyvern, The Myth of the Bug Free App](https://10xlearner.com/2024/05/10/mcs-0020-romm-manager-skyvern-the-myth-of-the-bug-free-app/)
 - [MCS 0019: Cult of Done, Visual Content in your Writings, Return Value Optimization Trap](https://10xlearner.com/2024/05/08/mcs-0019-cult-of-done-visual-content-in-your-writings-return-value-optimization-trap/)
 - [MCS 0018: isBooleanTooLongAndComplex, *&lpar;char*&rpar;0 = 0, GitHub tips](https://10xlearner.com/2024/05/07/mcs-0018-isbooleantoolongandcomplex-char0-0-github-tips/)
 - [MCS 0017: Dependabot on GitHub Action, Error 400 Bad Request, Safe C++](https://10xlearner.com/2024/05/06/mcs-0017-dependabot-on-github-action-error-400-bad-request-safe-c/)
 - [MCS 0016: Brittle tests, Performance and Class Layout, GitHub Copilot Workspace](https://10xlearner.com/2024/05/05/mcs-0016-brittle-tests-performance-and-class-layout-github-copilot-workspace/)
-- [MCS 0015: Cppcheck 2.14.0, Website from Markdown, Remote Work Great Again](https://10xlearner.com/2024/05/04/mcs-0015-cppcheck-2-14-0-website-from-markdown-remote-work-great-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
