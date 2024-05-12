@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0022: Fisher Yates Algorithm, GitHub Artifact Attestation, How to keep data in cache](https://10xlearner.com/2024/05/12/mcs-0022-fisher-yates-algorithm-github-artifact-attestation-how-to-keep-data-in-cache/)
 - [MCS 0021: A Typescript for C++, GitHub Discussion for your community, All-or-Nothing thinking](https://10xlearner.com/2024/05/11/mcs-0021-a-typescript-for-c-github-discussion-for-your-community-all-or-nothing-thinking/)
 - [MCS 0020: RomM manager, Skyvern, The Myth of the Bug Free App](https://10xlearner.com/2024/05/10/mcs-0020-romm-manager-skyvern-the-myth-of-the-bug-free-app/)
 - [MCS 0019: Cult of Done, Visual Content in your Writings, Return Value Optimization Trap](https://10xlearner.com/2024/05/08/mcs-0019-cult-of-done-visual-content-in-your-writings-return-value-optimization-trap/)
 - [MCS 0018: isBooleanTooLongAndComplex, *&lpar;char*&rpar;0 = 0, GitHub tips](https://10xlearner.com/2024/05/07/mcs-0018-isbooleantoolongandcomplex-char0-0-github-tips/)
-- [MCS 0017: Dependabot on GitHub Action, Error 400 Bad Request, Safe C++](https://10xlearner.com/2024/05/06/mcs-0017-dependabot-on-github-action-error-400-bad-request-safe-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
