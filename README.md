@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0025: Keyboard Shortcuts on GitHub, Descent 3, Quality VS Speed Dilemma](https://10xlearner.com/2024/05/15/mcs-0025-keyboard-shortcuts-on-github-descent-3-quality-vs-speed-dilemma/)
 - [MCS 0024: 6 Impossible Things, Habit Stacking, Failures Should be Actionable](https://10xlearner.com/2024/05/14/mcs-0024-6-impossible-things-habit-stacking-failures-should-be-actionable/)
 - [MCS 0023: Git 2.45, Google Code Deletion, Proactively Adding Enjoyements to Your Life](https://10xlearner.com/2024/05/13/mcs-0023-git-2-45-google-code-deletion-proactively-adding-enjoyements-to-your-life/)
 - [MCS 0022: Fisher Yates Algorithm, GitHub Artifact Attestation, How to keep data in cache](https://10xlearner.com/2024/05/12/mcs-0022-fisher-yates-algorithm-github-artifact-attestation-how-to-keep-data-in-cache/)
 - [MCS 0021: A Typescript for C++, GitHub Discussion for your community, All-or-Nothing thinking](https://10xlearner.com/2024/05/11/mcs-0021-a-typescript-for-c-github-discussion-for-your-community-all-or-nothing-thinking/)
-- [MCS 0020: RomM manager, Skyvern, The Myth of the Bug Free App](https://10xlearner.com/2024/05/10/mcs-0020-romm-manager-skyvern-the-myth-of-the-bug-free-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
