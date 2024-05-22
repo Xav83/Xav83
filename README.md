@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0028: Mario Builder 64, City In A Bottle, Noisy Class](https://10xlearner.com/2024/05/22/mcs-0028-mario-builder-64-city-in-a-bottle-noisy-class/)
 - [MCS 0027: Found means Fixed, PDD, Graphics Programmer Problematics](https://10xlearner.com/2024/05/21/mcs-0027-found-means-fixed-pdd-graphics-programmer-problematics/)
 - [MCS 0026: Homebrew 4.3.0, Zelda 64 Recompiled, CodingFont](https://10xlearner.com/2024/05/20/mcs-0026-homebrew-4-3-0-zelda-64-recompiled-codingfont/)
 - [MCS 0025: Keyboard Shortcuts on GitHub, Descent 3, Quality VS Speed Dilemma](https://10xlearner.com/2024/05/15/mcs-0025-keyboard-shortcuts-on-github-descent-3-quality-vs-speed-dilemma/)
 - [MCS 0024: 6 Impossible Things, Habit Stacking, Failures Should be Actionable](https://10xlearner.com/2024/05/14/mcs-0024-6-impossible-things-habit-stacking-failures-should-be-actionable/)
-- [MCS 0023: Git 2.45, Google Code Deletion, Proactively Adding Enjoyements to Your Life](https://10xlearner.com/2024/05/13/mcs-0023-git-2-45-google-code-deletion-proactively-adding-enjoyements-to-your-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
