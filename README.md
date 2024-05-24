@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0030: No to IWYU, New Good Stuff is Simple Stuff, GitHub Copilot Extensions](https://10xlearner.com/2024/05/24/mcs-0030-no-to-iwyu-new-good-stuff-is-simple-stuff-github-copilot-extensions/)
 - [MCS 0029: Initialization in C++, WebCopilot, Atomic Habits for developers](https://10xlearner.com/2024/05/23/mcs-0029-initialization-in-c-webcopilot-atomic-habits-for-developers/)
 - [MCS 0028: Mario Builder 64, City In A Bottle, Noisy Class](https://10xlearner.com/2024/05/22/mcs-0028-mario-builder-64-city-in-a-bottle-noisy-class/)
 - [MCS 0027: Found means Fixed, PDD, Graphics Programmer Problematics](https://10xlearner.com/2024/05/21/mcs-0027-found-means-fixed-pdd-graphics-programmer-problematics/)
 - [MCS 0026: Homebrew 4.3.0, Zelda 64 Recompiled, CodingFont](https://10xlearner.com/2024/05/20/mcs-0026-homebrew-4-3-0-zelda-64-recompiled-codingfont/)
-- [MCS 0025: Keyboard Shortcuts on GitHub, Descent 3, Quality VS Speed Dilemma](https://10xlearner.com/2024/05/15/mcs-0025-keyboard-shortcuts-on-github-descent-3-quality-vs-speed-dilemma/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
