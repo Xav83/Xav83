@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0036: if&lpar;x = 42&rpar;, Codestral, API Design 101](https://10xlearner.com/2024/06/02/mcs-0036-ifx-42-codestral-api-design-101/)
 - [MCS 0035: Deprecated copy with dtor, SOLID Microservices, gh-dash](https://10xlearner.com/2024/06/01/mcs-0035-deprecated-copy-with-dtor-solid-microservices-gh-dash/)
 - [MCS 0034: Flowtunes, the Danger of Freeing Resources in Desctructors, GitHub and JFrog partnership](https://10xlearner.com/2024/05/31/mcs-0034-flowtunes-the-danger-of-freeing-resources-in-desctructors-github-and-jfrog-partnership/)
 - [MCS 0033: Premature DRY, PayloadOffset_t, Faust in JUCE Projects](https://10xlearner.com/2024/05/30/mcs-0033-premature-dry-payloadoffset_t-faust-in-juce-projects/)
 - [MCS 0032: Visual Studio 2022 17.10, Git for Beginners, SocialScreenshots](https://10xlearner.com/2024/05/29/mcs-0032-visual-studio-2022-17-10-git-for-beginners-socialscreenshots/)
-- [MCS 0031: Note-Taking, Constexpr, Video Downloader](https://10xlearner.com/2024/05/28/mcs-0031-note-taking-constexpr-video-downloader/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
