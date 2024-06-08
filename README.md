@@ -107,9 +107,9 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/Xav83/Xav83.github.io/pull/125#issuecomment-2116653585) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
-2. 🗣 Commented on [#122](https://github.com/13rac1/twemoji-color-font/pull/122#issuecomment-2015433578) in [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font)
-3. 🔒 Closed issue [#19](https://github.com/Xav83/chocolatey-packages/issues/19) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 💪 Opened PR [#771](https://github.com/McMartin/FRUT/pull/771) in [McMartin/FRUT](https://github.com/McMartin/FRUT)
+2. 🗣 Commented on [#125](https://github.com/Xav83/Xav83.github.io/pull/125#issuecomment-2116653585) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+3. 🗣 Commented on [#122](https://github.com/13rac1/twemoji-color-font/pull/122#issuecomment-2015433578) in [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font)
 4. 🎉 Merged PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 5. 🗣 Commented on [#19](https://github.com/Xav83/chocolatey-packages/issues/19#issuecomment-1913351857) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
