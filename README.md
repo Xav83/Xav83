@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0038: Arm64 on GitHUb Action, API VS SDK, Using namespaces effectively](https://10xlearner.com/2024/06/10/mcs-0038-arm64-on-github-action-api-vs-sdk-using-namespaces-effectively/)
 - [MCS 0037: Elia, Terminalizer, Harmful overuse of std::move](https://10xlearner.com/2024/06/07/mcs-0037-elia-terminalizer-harmful-overuse-of-stdmove/)
 - [MCS 0036: if&lpar;x = 42&rpar;, Codestral, API Design 101](https://10xlearner.com/2024/06/02/mcs-0036-ifx-42-codestral-api-design-101/)
 - [MCS 0035: Deprecated copy with dtor, SOLID Microservices, gh-dash](https://10xlearner.com/2024/06/01/mcs-0035-deprecated-copy-with-dtor-solid-microservices-gh-dash/)
 - [MCS 0034: Flowtunes, the Danger of Freeing Resources in Desctructors, GitHub and JFrog partnership](https://10xlearner.com/2024/05/31/mcs-0034-flowtunes-the-danger-of-freeing-resources-in-desctructors-github-and-jfrog-partnership/)
-- [MCS 0033: Premature DRY, PayloadOffset_t, Faust in JUCE Projects](https://10xlearner.com/2024/05/30/mcs-0033-premature-dry-payloadoffset_t-faust-in-juce-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
