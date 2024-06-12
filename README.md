@@ -97,11 +97,11 @@
 ## :memo: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCS 0040: Undefined behavior, WiFi Card, Twterm](https://10xlearner.com/2024/06/12/mcs-0040-undefined-behavior-wifi-card-twterm/)
 - [MCS 0039: Setting Intentions, Rmlint, Branch Prediction in CPU](https://10xlearner.com/2024/06/11/mcs-0039-setting-intentions-rmlint-branch-prediction-in-cpu/)
 - [MCS 0038: Arm64 on GitHUb Action, API VS SDK, Using namespaces effectively](https://10xlearner.com/2024/06/10/mcs-0038-arm64-on-github-action-api-vs-sdk-using-namespaces-effectively/)
 - [MCS 0037: Elia, Terminalizer, Harmful overuse of std::move](https://10xlearner.com/2024/06/07/mcs-0037-elia-terminalizer-harmful-overuse-of-stdmove/)
 - [MCS 0036: if&lpar;x = 42&rpar;, Codestral, API Design 101](https://10xlearner.com/2024/06/02/mcs-0036-ifx-42-codestral-api-design-101/)
-- [MCS 0035: Deprecated copy with dtor, SOLID Microservices, gh-dash](https://10xlearner.com/2024/06/01/mcs-0035-deprecated-copy-with-dtor-solid-microservices-gh-dash/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
