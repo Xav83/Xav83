@@ -107,9 +107,9 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3368](https://github.com/pokeclicker/pokeclicker/issues/3368#issuecomment-2193883642) in [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker)
-2. 💪 Opened PR [#771](https://github.com/McMartin/FRUT/pull/771) in [McMartin/FRUT](https://github.com/McMartin/FRUT)
-3. 🗣 Commented on [#125](https://github.com/Xav83/Xav83.github.io/pull/125#issuecomment-2116653585) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+1. 🗣 Commented on [#127](https://github.com/Xav83/Xav83.github.io/pull/127#issuecomment-2317071334) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
+2. 🗣 Commented on [#3368](https://github.com/pokeclicker/pokeclicker/issues/3368#issuecomment-2193883642) in [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker)
+3. 💪 Opened PR [#771](https://github.com/McMartin/FRUT/pull/771) in [McMartin/FRUT](https://github.com/McMartin/FRUT)
 4. 🎉 Merged PR [#30](https://github.com/Xav83/chocolatey-packages/pull/30) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 5. 🗣 Commented on [#19](https://github.com/Xav83/chocolatey-packages/issues/19#issuecomment-1913351857) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
