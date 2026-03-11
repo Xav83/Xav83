@@ -107,7 +107,7 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#32](https://github.com/Xav83/chocolatey-packages/issues/32) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 💪 Opened PR [#29754](https://github.com/conan-io/conan-center-index/pull/29754) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
 2. 💪 Opened PR [#9](https://github.com/Xav83/module_map_visualizer/pull/9) in [Xav83/module_map_visualizer](https://github.com/Xav83/module_map_visualizer)
 3. 💪 Opened PR [#1](https://github.com/Xav83/module_map_visualizer/pull/1) in [Xav83/module_map_visualizer](https://github.com/Xav83/module_map_visualizer)
 4. 🗣 Commented on [#128](https://github.com/Xav83/Xav83.github.io/pull/128#issuecomment-2443335678) in [Xav83/Xav83.github.io](https://github.com/Xav83/Xav83.github.io)
