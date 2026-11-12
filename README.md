@@ -107,11 +107,11 @@
 ## <a href="https://github.com/Xav83" target="_blank" rel="noopener noreferrer"><img src="https://github.com/conermurphy/conermurphy/blob/main/github-logo.png" title="GitHub Logo" alt="GitHub Logo" width="20"/></a> Latest Activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/Xav83/chocolatey-packages/issues/39#issuecomment-6807963405) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-2. 🔒 Closed issue [#39](https://github.com/Xav83/chocolatey-packages/issues/39) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-3. ❗ Opened issue [#39](https://github.com/Xav83/chocolatey-packages/issues/39) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-4. 🔒 Closed issue [#33](https://github.com/Xav83/chocolatey-packages/issues/33) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
-5. 🔒 Closed issue [#31](https://github.com/Xav83/chocolatey-packages/issues/31) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+1. 🗣 Commented on [#34](https://github.com/Xav83/chocolatey-packages/issues/34#issuecomment-6838238344) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+2. 🔒 Closed issue [#34](https://github.com/Xav83/chocolatey-packages/issues/34) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+3. 🗣 Commented on [#37](https://github.com/Xav83/chocolatey-packages/pull/37#issuecomment-6837947241) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+4. ❌ Closed PR [#37](https://github.com/Xav83/chocolatey-packages/pull/37) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
+5. 🗣 Commented on [#36](https://github.com/Xav83/chocolatey-packages/issues/36#issuecomment-6837942200) in [Xav83/chocolatey-packages](https://github.com/Xav83/chocolatey-packages)
 <!--END_SECTION:activity-->
 
 <!--
